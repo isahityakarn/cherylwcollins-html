@@ -396,6 +396,7 @@ h6 { font-size: 16px; }
 /*	04) ARLO HERO
 /*---------------------------------------------------*/
 
+
 .arlo_tm_hero{
 	width: 100%;
 	height: 100vh;
@@ -536,7 +537,7 @@ h6 { font-size: 16px; }
 	float: left;
 	margin-bottom: 150px;
 	padding-top: 140px;
-	background-color: #b7b0e6;
+	/* background-color: #b7b0e6; */
 }
 .arlo_tm_about .about_inner{
 	width: 100%;
