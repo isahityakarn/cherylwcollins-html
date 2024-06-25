@@ -618,7 +618,7 @@ h6 {
 }
 
 .arlo_tm_hero .text_typing p {
-	color: #fff;
+	color: #e65f78;
 	font-size: 19px;
 	font-weight: 500;
 	font-family: "Poppins";
@@ -697,7 +697,7 @@ h6 {
 	height: auto;
 	clear: both;
 	float: left;
-	margin-bottom: 150px;
+	padding-bottom: 150px;
 	padding-top: 140px;
 	/* background-color: #b7b0e6; */
 }
@@ -707,7 +707,7 @@ h6 {
 	height: auto;
 	clear: both;
 	display: flex;
-	padding-top: 100px;
+	padding-top: 50px;
 }
 
 .arlo_tm_main_title {
@@ -918,7 +918,7 @@ h6 {
 	height: auto;
 	clear: both;
 	float: left;
-	background-color: #f9f9f9;
+	/* background-color: antiquewhite; */
 	padding: 140px 0px 138px 0px;
 }
 
@@ -927,7 +927,7 @@ h6 {
 	height: auto;
 	clear: both;
 	float: left;
-	padding-top: 90px;
+	padding-top: 50px;
 }
 
 .arlo_tm_services .service_inner ul {
@@ -943,7 +943,7 @@ h6 {
 	margin: 0px 0px 50px 0px;
 	float: left;
 	width: 33.3333%;
-	padding-left: 50px;
+	padding-left: 25px;
 }
 
 .arlo_tm_services .service_inner ul li .inner {
@@ -1241,7 +1241,7 @@ h6 {
 .arlo_tm_counter_section ul li {
 	margin: 0px 0px 40px 0px;
 	float: left;
-	width: 25%;
+	width: 33%;
 	padding-left: 40px;
 }
 
@@ -1664,7 +1664,7 @@ body.modal {
 	height: auto;
 	clear: both;
 	float: left;
-	padding: 140px 0px 140px 0px;
+	padding: 40px 0px 140px 0px;
 }
 
 .arlo_tm_contact .contact_inner {
@@ -1783,7 +1783,7 @@ body.modal {
 	height: auto;
 	clear: both;
 	float: left;
-	background-color: #000;
+	background-color: #002245;
 	padding: 80px 0px;
 }
 
@@ -2028,7 +2028,7 @@ body.modal {
 }
 
 .arlo_tm_leftpart .inner .logo img {
-	max-width: 200px;
+	max-width: 150px;
 	max-height: 200px;
 }
 
@@ -2390,4 +2390,12 @@ body.modal {
     -o-transition: all .3s ease;
     transition: all .3s ease;
 	margin-bottom: 10px;
+}
+
+
+.boxsiction {
+    box-shadow: 5px 5px 14px 1px;
+    padding: 10px;
+    text-align: justify;
+    margin-top: 20px;
 }
